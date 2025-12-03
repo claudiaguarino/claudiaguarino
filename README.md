@@ -1,0 +1,25 @@
+# Hi there, I'm Claudia 👋  
+### Data Analyst • MSc Statistics • ML & AI Lover  
+
+![Profile Views](https://komarev.com/ghpvc/?username=claudiaguarino&style=flat-square)
+
+---
+
+## 🚀 About Me
+- 📊 Data Analyst con background in **Statistica**  
+- 🤖 Mi appassiona tutto ciò che riguarda **Machine Learning** e **AI**  
+- 💡 Adoro trasformare dati complessi in insight chiari  
+- 🔍 Focus attuale: NLP, LLMs, MLOps
+
+---
+
+## 🧰 Toolbox
+
+**Languages & Data**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+
+## 🤝 Connect
+📩 Email: claudiagua@outlook.it 
+🔗 <www.linkedin.com/in/claudia-guarino-618985244>  
