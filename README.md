@@ -7,17 +7,16 @@
 ---
 
 ## 🚀 About me
-- 📊 Data Analyst con background in **Statistica**  
-- 🤖 Mi appassiona tutto ciò che riguarda **Machine Learning** e **AI**  
-- 💡 Adoro trasformare dati complessi in insight chiari  
-- 🔍 Focus attuale: NLP, LLMs, MLOps
+- 📊 Attualmente **Ricercatrice Industriale** in *Analisi Statistica* nel progetto **Insurtech – Ecoscoring (PNRR)**, dove studiamo se esiste un legame tra guida sostenibile e incidentalità. Risultato? Sì: chi guida in modo sostenibile ha una probabilità significativamente più bassa di incorrere in incidenti.
+- 🔄 Ho iniziato il mio percorso in **Scienze Politiche** e poi mi sono specializzata in **Statistica**: leggere i dati con una prospettiva **politica, sociale e comportamentale** è il mio forte
+- 🤖 Appassionata di **Machine Learning** e **AI** 
+- 💡 Amo trasformare dataset complessi in insight chiari e utili  
+
 
 ---
 
 ## 🧰 Tools
-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-- ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
