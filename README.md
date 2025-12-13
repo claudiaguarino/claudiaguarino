@@ -1,7 +1,6 @@
 # Hi, I'm Claudia Guarino  
 
-**Junior Data Analyst / Data Scientist** with a background in **Statistics** and a strong interest in  
-**Machine Learning, AI, and data-driven problem solving**.
+**Junior Data Analyst / Data Scientist** with a background in **Statistics** and a strong interest in **Machine Learning, AI, and data-driven problem solving**.
 
 I work on applied projects focused on **predictive modeling** and **Natural Language Processing**, combining statistical methods with practical use cases.
 
